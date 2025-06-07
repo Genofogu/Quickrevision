@@ -6,7 +6,7 @@ A complete collection of **smartly curated revision notes**, formulas, and trick
 
 ## 🔗 Live Website
 
-👉 [Visit Now]([https://yourusername.github.io/your-repo-name/](https://genofogu.github.io/Quickrevision/))  
+👉 [Visit Now](https://genofogu.github.io/Quickrevision/)  
 No downloads. Just scroll and revise!
 
 ---
